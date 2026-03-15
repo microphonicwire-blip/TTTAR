@@ -96,6 +96,10 @@ This incident is notable not for any single action but for the pattern of delibe
 
 ---
 
+## Evidence
+
+![Blurred Recovered Discord Images](../assets/images/evidence1.png)
+
 ## Notes
 
 - This is not the first instance of ban evasion via alternate account in Undex's record
