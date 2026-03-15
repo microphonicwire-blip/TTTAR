@@ -23,5 +23,5 @@ Records on individuals of interest.
 
 | Name | Aliases | Status |
 |------|---------|--------|
-| Audon | — | 🔴 Blacklisted |
-| Josh (Joshua Baloni) | Oceanwave | 🟡 Watchlist |
+| Audon | — | 🟢 Trusted |
+| Josh (Joshua Baloni) | Oceanwave | 🟢 Trusted |
