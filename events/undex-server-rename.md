@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "I003 - Inappropriate Server Rename"
+title: "I007 - Inappropriate Server Rename"
 parent: Incidents
-nav_order: 3
+nav_order: 7
 ---
 
-# Incident I003 — Inappropriate Server Rename
+# Incident I007 — Inappropriate Server Rename
 
 | Field | Details |
 |-------|---------|
-| **Incident ID** | I003 |
+| **Incident ID** | I007 |
 | **Perpetrator** | Undex |
 | **Severity** | 🟡 Medium |
 | **Status** | Closed |
