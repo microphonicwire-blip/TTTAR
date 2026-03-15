@@ -1,6 +1,6 @@
 title: TCCN Criminal Database
 description: Official criminal records for the server
-baseurl: "/TCCN"
+baseurl: "/TTTAR"
 url: "https://microphonicwire-blip.github.io"
 
 remote_theme: just-the-docs/just-the-docs
