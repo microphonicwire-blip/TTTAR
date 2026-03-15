@@ -98,7 +98,7 @@ This incident is notable not for any single action but for the pattern of delibe
 
 ## Evidence
 
-![Blurred Recovered Discord Images](../assets/images/evidence1.png)
+![Blurred Recovered Discord Images](../assets/images/undex-cp-1.png)
 
 ## Notes
 
