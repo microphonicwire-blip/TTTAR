@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "I007 - Inappropriate Server Rename"
+title: "I003 - Inappropriate Server Rename"
 parent: Incidents
 nav_order: 7
 ---
