@@ -22,4 +22,4 @@ footer_content: "TCCN Criminal Database. For authorized members only."
 
 plugins:
   - jekyll-seo-tag
-footer_custom_content: "{% include groq_badge.html %}"
+footer_custom_content: "{% include groq.html %}"
