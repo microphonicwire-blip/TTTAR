@@ -7,7 +7,7 @@ nav_order: 3
 # 👤 Undex
 | Field | Details |
 |-------|---------|
-| **Known Aliases** | Undex, "UndexReal", "xednU" |
+| **Known Aliases** | Undex, "Undesx", "onionchips" |
 | **Approximate Age** | 15–16 |
 | **Location** | South Argentina |
 | **Languages** | Spanish (fluent), broken English |
@@ -35,7 +35,7 @@ Undex is considered one of the most damaging individuals to have ever been grant
 | I004 | [Distribution of Pornographic Content](../incidents/undex-pornography) | Perpetrator |
 | I005 | [Mass Member Kick](../incidents/undex-mass-kick) | Perpetrator |
 | I006 | [Fish Gang Espionage](../incidents/undex-espionage) | Perpetrator |
-| I007 | [Attempted Token Grab via Fake Bot](../incidents/undex-token-grab) | Perpetrator |
+| I007 | [Attempted Token Grab via Fake Bot](../incidents/undex-token) | Perpetrator |
 | I008 | [Leaking of Private Voice Conversations](../incidents/undex-vc-leak) | Perpetrator |
 | I009 | [Targeted Harassment Campaign Against MinorMod](../incidents/undex-harassment-minormod) | Perpetrator |
 | I010 | [Sharing of Member Personal Information](../incidents/undex-doxx-attempt) | Perpetrator |
