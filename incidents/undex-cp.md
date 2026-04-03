@@ -100,6 +100,8 @@ This incident is notable not for any single action but for the pattern of delibe
 
 ![Blurred Recovered Discord Images](../assets/images/undex-cp-1)
 
+--The gemini nano banana logo at the bottom right is purely for combining the 2 images into 1 file, the date and content inside was not changed.
+
 ## Notes
 
 - This is not the first instance of ban evasion via alternate account in Undex's record
